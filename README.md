@@ -207,7 +207,7 @@
 
         <p>A história se desenrola ao longo de várias temporadas, onde os personagens enfrentam criaturas estranhas, ameaças do governo e os segredos do Upside Down. A trama explora não apenas os aspectos sobrenaturais, mas também o vínculo entre os amigos, o crescimento pessoal e os mistérios que envolvem a cidade de Hawkins.</p>
         
-        <img src="https://blogs.correiobraziliense.com.br/proximocapitulo/wp-content/uploads/sites/27/2017/02/stranger0-550x298.jpgs" alt="Cena Stranger Things">
+        <img src="[https://blogs.correiobraziliense.com.br/proximocapitulo/wp-content/uploads/sites/27/2017/02/stranger0-550x298.jpgs](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwvyGEuCB_TpUkjXrkM3xbDnLDmNN56-hQA&s)" alt="Cena Stranger Things">
 
         <p>A cada temporada, os perigos aumentam, e a amizade entre os personagens é testada enquanto tentam salvar Hawkins de uma ameaça que parece nunca acabar.</p>
       </div>
